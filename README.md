@@ -1,1 +1,1 @@
-# LogisticCompany_Kursova
+Використані в моїй роботі, коди.
